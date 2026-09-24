@@ -1,0 +1,4 @@
+scratchattach
+opencv-python-headless
+numpy
+Flask
